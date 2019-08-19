@@ -17,7 +17,7 @@ var trabajos = [{
     about: "Texto simulado de descripción de tercer trabajo",
     url: "https://www.emol.cl"
 }, {
-    figure: "media/trabajo-04-editorial.jpg",
+    figure: "media/trabajo-04-zoologico.jpg",
     alt: "Descripción de la imagen",
     title: "Título de cuarto trabajo",
     about: "Texto simulado de descripción de cuarto trabajo",
