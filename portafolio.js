@@ -23,19 +23,19 @@ var trabajos = [{
     about: "Texto simulado de descripción de cuarto trabajo",
     url: "https://www.emol.cl"
 }, {
-    figure: "media/trabajo-05-artesania.jpg",
+    figure: "media/trabajo-05-raco.jpg",
     alt: "Descripción de la imagen",
     title: "Título de quinto trabajo",
     about: "Texto simulado de descripción de quinto trabajo",
     url: "https://www.emol.cl"
 }, {
-    figure: "media/trabajo-06-textil.jpg",
+    figure: "media/trabajo-06-mano.jpg",
     alt: "Descripción de la imagen",
     title: "Título de sexto trabajo",
     about: "Texto simulado de descripción de sexto trabajo",
     url: "https://www.emol.cl"
 }, {
-    figure: "media/trabajo-07-materiales.jpg",
+    figure: "media/trabajo-07-ilko.jpeg",
     alt: "Descripción de la imagen",
     title: "Título de séptimo trabajo",
     about: "Texto simulado de descripción de séptimo trabajo",
