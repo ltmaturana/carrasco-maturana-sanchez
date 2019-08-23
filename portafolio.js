@@ -29,6 +29,6 @@ $.each(trabajos, function(i, val) {
     var uno = '<figure><img src="' + trabajos[i].figure + '" alt="' + trabajos[i].alt + '"/></figure>';
     var dos = '<h4>' + trabajos[i].title + '</h4>';
     var tres = '<p>' + trabajos[i].about + '</p>';
-  //  var cuatro = '<p><a href="' + trabajos[i].url + '">Ver más</a></p>';
-    $('#portafolio').append('<div class="item">' + uno + dos + tres + '</div>')
+    var cuatro = '<p><a href="' + trabajos[i].url + '">Ver más</a></p>';
+    $('#portafolio').append('<div class="item">' + uno + dos + tres + cuatro + '</div>')
 });

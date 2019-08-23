@@ -222,19 +222,35 @@ AHORA VAMOS POR PORTAFOLIO
     background:linear-gradient(to bottom, #EEEEEE, #AAAAAA);
 }
 
+.inline-block-center {
+  text-align: center;
+}
+.inline-block-center div {
+  display: inline-block;
+  text-align: left;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+}
 .item {
-    width:25%;
-    margin:5%;
+    width:600px;
+    height: 500px;
+    margin:auto;
     color:#333;
     background:#eee;
     box-shadow:0 0 5px rgba(0,0,0,.5);
+
 }
 
 @media screen and (max-width: 1500px){
     .item{
-        width:45%;
-        height: 393.75px;
-        margin:2%;
+        width:600px;
+        height: 400px;
+        margin: 10px ;
         background:#fff;
         color:#fff;
     }
@@ -254,25 +270,36 @@ AHORA VAMOS POR PORTAFOLIO
      overflow:hidden;
 }
  .item figure img{
-     width:700px;
-     height: 393.75px;
+     width:600px;
+     height: 400px;
      object-fit: cover;
      filter: saturate(0.8);
      position: relative;
+
 }
  .item:hover figure img{
-     opacity: 0.4;
+     opacity: 0.25;
      transition: opacity 2s;
 }
- .item h4-{
-     /*font-size:1em;
-     letter-spacing:0.025em;
-     margin:5% 5% 3% 5%;
-     position: absolute;
-     font-family: 'Open Sans', sans serif;
-     color:#000000;
-     bottom: -100px; */
+ .item h4{
+   font-size:1em;
+   letter-spacing:0.05em;
+   margin:2% 5% 6% 5%;
+   position: relative;
+   font-family: 'Open Sans', sans serif;
+   color:#000000; /* lo básico, para evitar problemas */
+   color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
+   text-align:center;
+   font-weight:700;
+   bottom: 300px;
+   opacity: 0;
+   text-transform: uppercase;
      /* ALGO ME PASA CON ÉSTA, QUE NO FUNCIONA NO SÉ COMO ARREGLARLO*/
+   }
+     .item:hover h4 {
+       visibility: visible;
+       opacity: 1;
+       transition: opacity 2s;
 
 
 }
@@ -286,7 +313,7 @@ AHORA VAMOS POR PORTAFOLIO
      color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
      text-align:center;
      font-weight:700;
-     bottom: 100px;
+     bottom: 200px;
      opacity: 0;
 
 }
