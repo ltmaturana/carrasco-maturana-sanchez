@@ -22,30 +22,13 @@ var trabajos = [{
     title: "Título de cuarto trabajo",
     about: "Texto simulado de descripción de cuarto trabajo",
     url: "https://www.emol.cl"
-}, {
-    figure: "media/trabajo-05-raco.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de quinto trabajo",
-    about: "Texto simulado de descripción de quinto trabajo",
-    url: "https://www.emol.cl"
-}, {
-    figure: "media/trabajo-06-mano.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de sexto trabajo",
-    about: "Texto simulado de descripción de sexto trabajo",
-    url: "https://www.emol.cl"
-}, {
-    figure: "media/trabajo-07-ilko.jpeg",
-    alt: "Descripción de la imagen",
-    title: "Título de séptimo trabajo",
-    about: "Texto simulado de descripción de séptimo trabajo",
-    url: "https://www.emol.cl"
+
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
     var uno = '<figure><img src="' + trabajos[i].figure + '" alt="' + trabajos[i].alt + '"/></figure>';
     var dos = '<h4>' + trabajos[i].title + '</h4>';
     var tres = '<p>' + trabajos[i].about + '</p>';
-    var cuatro = '<p><a href="' + trabajos[i].url + '">Ver más</a></p>';
-    $('#portafolio').append('<div class="item">' + uno + dos + tres + cuatro + '</div>')
+  //  var cuatro = '<p><a href="' + trabajos[i].url + '">Ver más</a></p>';
+    $('#portafolio').append('<div class="item">' + uno + dos + tres + '</div>')
 });
