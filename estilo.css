@@ -216,13 +216,13 @@ AHORA VAMOS POR PORTAFOLIO
 
 */
 
-#portafolio{
-    padding:25px 25px;
+.portafolio{
+    padding:25px;
     padding-left: 50px;
     margin: auto;
     margin-right: 30px;
     width: 90%;
-    background:linear-gradient(to bottom, #EEEEEE, #AAAAAA);
+    /* background:linear-gradient(to bottom, #EEEEEE, #AAAAAA); */
 
 }
 

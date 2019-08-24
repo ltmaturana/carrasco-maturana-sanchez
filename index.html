@@ -36,7 +36,7 @@
         <section id="equipo">
             <h3>Quiénes somos</h3>
             <div class="integrante">
-                <h4>Valentina Carrasco</h4>
+                <h4> <a href="#PValentina"> Valentina Carrasco</a></h4>
                 <address><a href="mailto:mail@uc.cl">vocarrasco@uc.cl</a></address>
                 <blockquote> Diseñadora estratégica<br>
                    <cite> PUC </cite> <br>
@@ -44,7 +44,7 @@
                </blockquote>
             </div>
             <div class="integrante">
-                <h4>Loreto Maturana</h4>
+                <h4> <a href="#PLoreto">Loreto Maturana</a></h4>
                 <address><a href="mailto:mail@uc.cl">ltmaturana@uc.cl</a></address>
                 <blockquote>Diseñadora gráfica <cite>PUC</cite> <br>
                 <!-- Licenciatura en Ciencias de la Ingeniería <cite>USACH</cite><br> -->
@@ -54,7 +54,7 @@
 
             </div>
             <div class="integrante">
-                <h4>María Belén Sánchez</h4>
+                <h4> <a href="#PBelen">María Belén Sánchez</a></h4>
                 <address><a href="mailto:mail@uc.cl">mbsanchez2@uc.cl</a></address>
                 <blockquote>Diseñadora audiovisual <cite>PUC</cite> <br>
                 <a href="https://www.instagram.com/mbelensr/"> Contacto</a>
@@ -62,10 +62,28 @@
             </div>
         </section>
         <div style="background:linear-gradient(to bottom, #EEEEEE, #AAAAAA)">
-          <section id="portafolio">
-              <h3>Nuestros trabajos</h3>
-              <!--acá se colocan y organizan las cosas con programación-->
-          </section>
+          <br>
+          <div id="PValentina">
+            <h1 style="color:rgba(0,0,0,.5)">Trabajos Valentina</h1>
+            <section class="portafolio" id="Valentina">
+                <!--acá se colocan y organizan las cosas con programación-->
+            </section>
+          </div>
+          <br>
+          <div id="PLoreto">
+            <h1 style="color:rgba(0,0,0,.5)">Trabajos Loreto</h1>
+            <section class="portafolio" id="Loreto">
+                <!--acá se colocan y organizan las cosas con programación-->
+            </section>
+          </div>
+          <br>
+          <div id="PBelen">
+            <h1 style="color:rgba(0,0,0,.5)">Trabajos Belen</h1>
+            <section class="portafolio" id="Belen">
+                <!--acá se colocan y organizan las cosas con programación-->
+            </section>
+          </div>
+
         </div>
     </main>
     <footer>
@@ -74,10 +92,19 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
     <script>
         window.onload = function() {
-            var container = document.querySelector('#portafolio');
-            var msnry = new Masonry(portafolio, {
+            var containerV = document.querySelector('#Valentina');
+            var containerL = document.querySelector('#Loreto');
+            var containerB = document.querySelector('#Belen');
+            var msnryV = new Masonry(Valentina, {
                 itemSelector: '.item'
             });
+            var msnryL = new Masonry(Loreto, {
+                itemSelector: '.item'
+            });
+            var msnryB = new Masonry(Belen, {
+                itemSelector: '.item'
+            });
+
         };
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
