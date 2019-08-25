@@ -87,13 +87,13 @@ var trabajosBelen= [{
     about: "Texto simulado de descripción de segundo trabajo",
 
 }, {
-    figure: "media/trabajo-03-zoologico.jpg",
+    figure: "media/trabajo-03-belen.jpg",
     alt: "Descripción de la imagen",
     title: "Dispositivo de Enriquecimiento Animal para Servales",
     about: "Texto simulado de descripción de tercer trabajo",
 
 }, {
-    figure: "media/trabajo-01-estructuras.jpg",
+    figure: "media/trabajo-04-belen.jpg",
     alt: "Descripción de la imagen",
     title: "Cyl",
     about: "Banca de madera de terciado de 3 mm, pintada y sellada con carbonileo",
