@@ -13,7 +13,7 @@ var trabajosValentina= [{
 }, {
     figure: "media/trabajo-02-vale.jpg",
     alt: "Descripción de la imagen",
-    title: "IlkoBasics KIT",
+    title: "IlkoBasic KIT",
     about: "Kit de utensilios fundamentales para cocinar en el día a día y que no están presente en la mente del colectivo de los jóvenes que están equipando su nuevo hogar.",
 
 }, {
@@ -57,7 +57,7 @@ var trabajosLoreto= [{
 }, {
     figure: "media/trabajo-04-lolo.jpg",
     alt: "Descripción de la imagen",
-    title: "Iluminación   Puente Condell",
+    title: "Iluminación  Puente Condell",
     about: "Proyecto que buscaba modificar la iluminación del puente, para resaltar la idea romántica que tienen los transeúntes sobre el mismo y poner en valor los candados que la gente ha ido añadiendo con el paso del tiempo.",
 
 }, {
