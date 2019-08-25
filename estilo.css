@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Space+Mono:700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Oswald:300,500,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Raleway:200,400,600&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Average&display=swap');
+
 /*
 
 Así se escriben los comentario en CSS.
@@ -18,35 +17,42 @@ se cierran con asterisco slash.
 }
 
 body{
-    font-family:'Average';
+    font-family:'DM Sans', sans-serif;
+    font-weight:400;
     color:#373737;
     background-color:#FFFFFF; /*el primer par es R, segundo es G y tercero es B*/
 }
 
 h1{
-    font-family:'Oswald';
-    color:#FFFFFF; /* lo básico, para evitar problemas */
-    color:rgba(255,255,255,0.8); /* si el navegador lo entiende, lo usa */
+    font-family:'Oswald', monospace;
+    color:#373737; /* lo básico, para evitar problemas */
+    color:rgba(0,0,0); /* si el navegador lo entiende, lo usa */
     text-align:center;
     letter-spacing:0.1em;
-    font-weight:500;
+    font-weight:700;
 }
 
 h2{
     font-family:'Average';
-    color:#FFFFFF; /* lo básico, para evitar problemas */
-    color:rgba(255,255,255,0.8); /* si el navegador lo entiende, lo usa */
+    color:#373737; /* lo básico, para evitar problemas */
+    color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
     text-align:center;
     letter-spacing:0.1em;
+    font-weight:300;
+    font-style: italic;
 }
 
 h1{
-    font-size:3rem;
+    font-size:4rem;
 }
 
 h2{
-    font-size:1.5rem;
+    font-size: 2rem;
     letter-spacing:0.1em;
+}
+
+p {
+  text-align:center;
 }
 
 @media screen and (max-width: 768px){
@@ -227,10 +233,10 @@ AHORA VAMOS POR PORTAFOLIO
 
 .portafolio{
     padding:25px;
-    padding-left: 50px;
+    padding-left: 55px;
     margin: auto;
-    margin-right: 30px;
-    width: 90%;
+    margin-right: 10px;
+    width: 100%;
     /* background:linear-gradient(to bottom, #EEEEEE, #AAAAAA); */
 
 }
@@ -264,7 +270,7 @@ AHORA VAMOS POR PORTAFOLIO
     .item{
         width:400px;
         height: 300px;
-        margin: 10px ;
+        margin: 20px ;
         background:#fff;
         color:#fff;
     }
