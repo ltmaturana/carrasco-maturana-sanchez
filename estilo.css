@@ -234,9 +234,10 @@ AHORA VAMOS POR PORTAFOLIO
     padding:25px;
     padding-left: 55px;
     margin: auto;
-    margin-right: 10px;
-    width: 100%;
-    /* background:linear-gradient(to bottom, #EEEEEE, #AAAAAA); */
+    margin-right: 30px;
+    width: 90%;
+    background:#F8C1B8;
+    background-color: rgba(248, 193, 184, 0.7);
 
 }
 
@@ -269,7 +270,7 @@ AHORA VAMOS POR PORTAFOLIO
     .item{
         width:400px;
         height: 300px;
-        margin: 20px ;
+        margin: 15px ;
         background:#fff;
         color:#fff;
     }
@@ -302,11 +303,11 @@ AHORA VAMOS POR PORTAFOLIO
      transition: opacity 2s;
 }
  .item h4{
-   font-size:1em;
+   font-size:1.5em;
    letter-spacing:0.05em;
    margin:2% 5% 6% 5%;
    position: relative;
-   font-family: 'Open Sans', sans serif;
+   font-family:'Oswald', monospace;
    color:#000000; /* lo básico, para evitar problemas */
    color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
    text-align:center;
@@ -328,12 +329,12 @@ AHORA VAMOS POR PORTAFOLIO
      letter-spacing:0.05em;
      margin:2% 5% 6% 5%;
      position: relative;
-     font-family: 'Open Sans', sans serif;
+     font-family:'Average';
      color:#000000; /* lo básico, para evitar problemas */
      color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
      text-align:center;
-     font-weight:700;
-     bottom: 220px;
+     font-weight:50;
+     bottom: 230px;
      opacity: 0;
 
 }

@@ -31,8 +31,8 @@ var trabajosValentina= [{
 }, {
     figure: "media/trabajo-06-vale.jpg",
     alt: "Descripción de la imagen",
-    title: "Propuesta Puente Suecia",
-    about: "Reestructuración en el tipo de iluminación del puente",
+    title: "Iluminación   Puente Suecia",
+    about: "Reestructuración en el tipo de iluminación del puente.",
 
 }];
 
@@ -51,14 +51,14 @@ var trabajosLoreto= [{
 }, {
     figure: "media/trabajo-03-lolo.jpg",
     alt: "Descripción de la imagen",
-    title: "Dispositivo de Enriquecimiento Animal para Servales",
+    title: "Dispositivo de Enriquecimiento Animal",
     about: "Dispositivo creado con el propósito de darle uso al espacio áreo en el recinto de los servales, aumentar su actividad física y reducir las conductas estereotípicas comunes en animales en cautiverio. Éste trabajo se realizó en conjunto con PARQUEMET",
 
 }, {
     figure: "media/trabajo-04-lolo.jpg",
     alt: "Descripción de la imagen",
-    title: "Proyecto de Iluminación para Puente Condell",
-    about: "Proyecto que buscaba modificar la iluminación del Puente Condell, para resaltar la idea romántica que tienen los transeúntes sobre el mismo y poner en valor los candados que la gente ha ido añadiendo con el paso del tiempo.",
+    title: "Iluminación   Puente Condell",
+    about: "Proyecto que buscaba modificar la iluminación del puente, para resaltar la idea romántica que tienen los transeúntes sobre el mismo y poner en valor los candados que la gente ha ido añadiendo con el paso del tiempo.",
 
 }, {
     figure: "media/trabajo-05-lolo.jpg",
