@@ -93,7 +93,7 @@ var trabajosBelen= [{
     about: "Motion grafics tipográfico donde se buscaba la expresión visual de una frase rítmica de protesta.",
 
 }, {
-    figure: "",
+    figure: "media/trabajo-04-belen.jpg",
     alt: "Descripción de la imagen",
     title: "Wikiglitch",
     about: "Banca de madera de terciado de 3 mm, pintada y sellada con carbonileo",
