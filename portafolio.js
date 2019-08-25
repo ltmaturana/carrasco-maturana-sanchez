@@ -78,31 +78,31 @@ var trabajosBelen= [{
     figure: "media/trabajo-01-belen.jpg",
     alt: "Descripción de la imagen",
     title: "Raco",
-    about: "Texto simulado de descrición de primer trabajo",
+    about: "Creación de imagen gráfica, packaging y distribución de la chicha de Curacaví",
 
 }, {
     figure: "media/trabajo-02-belen.jpg",
     alt: "Descripción de la imagen",
-    title: "Título de segundo trabajo",
-    about: "Texto simulado de descripción de segundo trabajo",
+    title: "Nae",
+    about: "Sesión fotográfica de producto alimenticio.",
 
 }, {
     figure: "media/trabajo-03-belen.jpg",
     alt: "Descripción de la imagen",
-    title: "Dispositivo de Enriquecimiento Animal para Servales",
-    about: "Texto simulado de descripción de tercer trabajo",
+    title: "Protestype",
+    about: "Motion grafics tipográfico donde se buscaba la expresión visual de una frase rítmica de protesta.",
 
 }, {
-    figure: "media/trabajo-04-belen.JPG",
+    figure: "",
     alt: "Descripción de la imagen",
-    title: "Cyl",
+    title: "Wikiglitch",
     about: "Banca de madera de terciado de 3 mm, pintada y sellada con carbonileo",
 
 }, {
-    figure: "media/trabajo-02-taller.jpg",
+    figure: "media/trabajo-05-belen.jpg",
     alt: "Descripción de la imagen",
-    title: "Título de segundo trabajo",
-    about: "Texto simulado de descripción de segundo trabajo",
+    title: "MM",
+    about: "Sesión fotográfica para el numero de K-pop de la revista MM.",
 
 }, {
     figure: "media/trabajo-03-zoologico.jpg",
