@@ -93,7 +93,7 @@ var trabajosBelen= [{
     about: "Texto simulado de descripción de tercer trabajo",
 
 }, {
-    figure: "media/trabajo-04-belen.jpg",
+    figure: "media/trabajo-04-belen.JPG",
     alt: "Descripción de la imagen",
     title: "Cyl",
     about: "Banca de madera de terciado de 3 mm, pintada y sellada con carbonileo",
