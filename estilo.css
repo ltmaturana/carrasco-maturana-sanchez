@@ -190,7 +190,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     background-position: bottom right;
     background-size:auto 90%;
     background-repeat: no-repeat;
-    transition: left 0.35s ease-in-out, background-color 1s ease-in 1s, ease-out 0s;
+
 
 }
 
@@ -216,7 +216,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     background-position: bottom right;
     background-size:auto 90%;
     background-repeat: no-repeat;
-    transition: 1s;
+
 }
 
 /*
@@ -306,10 +306,10 @@ AHORA VAMOS POR PORTAFOLIO
    color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
    text-align:center;
    font-weight:700;
-   bottom: 300px;
+   bottom: 250px;
    opacity: 0;
    text-transform: uppercase;
-     /* ALGO ME PASA CON ÉSTA, QUE NO FUNCIONA NO SÉ COMO ARREGLARLO*/
+
    }
      .item:hover h4 {
        visibility: visible;
@@ -328,7 +328,7 @@ AHORA VAMOS POR PORTAFOLIO
      color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
      text-align:center;
      font-weight:700;
-     bottom: 200px;
+     bottom: 220px;
      opacity: 0;
 
 }
