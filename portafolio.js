@@ -90,13 +90,13 @@ var trabajosBelen= [{
     figure: "media/trabajo-03-belen.jpg",
     alt: "Descripción de la imagen",
     title: "Protestype",
-    about: "Motion grafics tipográfico donde se buscaba la expresión visual de una frase rítmica de protesta.",
+    about: "Video animado donde se buscaba la expresión visual de una frase rítmica de protesta.",
 
 }, {
     figure: "media/trabajo-04-belen.jpg",
     alt: "Descripción de la imagen",
     title: "Wikiglitch",
-    about: "Banca de madera de terciado de 3 mm, pintada y sellada con carbonileo",
+    about: "Video animado basado en el juego de wikipedia glitch.",
 
 }, {
     figure: "media/trabajo-05-belen.jpg",
