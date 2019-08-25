@@ -5,34 +5,34 @@ var trabajosValentina= [{
     about: "Banca fabricada a partir de placas de terciado de 3 milímetros. La banca tiene solo dos puntos de apoyo y reforzada por un sistema de costillas y ensambles, y estructurada con cables zip.",
 
 }, {
-    figure: "media/trabajo-01-vale.jpg",
+    figure: "media/trabajo-04-vale.jpeg",
     alt: "Descripción de la imagen",
-    title: "Agrocinta",
-    about: "Dispositivo consistente en dos partes, la primera, una cinta de papel biodegradable, con sem",
+    title: "JV 53",
+    about: "Modelo de bote confeccionado con PAI estilo libre, curso Laboratorio de Modelos y Prototipos",
 
 }, {
     figure: "media/trabajo-02-vale.jpg",
     alt: "Descripción de la imagen",
-    title: "Ilko Basics",
-    about: "Texto simulado de descripción de tercer trabajo",
+    title: "IlkoBasics KIT",
+    about: "Kit de utensilios fundamentales para cocinar en el día a día y que no están presente en la mente del colectivo de los jóvenes que están equipando su nuevo hogar.",
 
 }, {
     figure: "media/trabajo-03-vale.jpeg",
     alt: "Descripción de la imagen",
     title: "Maty",
-    about: "Banca de madera de terciado de 3 mm, pintada y sellada con carbonileo",
+    about: "Producto en base a TERERÉ que invita a vivir una nueva experiencia para disfrutar su sabor, pero en un formato distinto",
 
 }, {
-    figure: "media/trabajo-04-vale.jpg",
+    figure: "media/trabajos-05-vale.jpeg",
     alt: "Descripción de la imagen",
-    title: "Título de segundo trabajo",
-    about: "Texto simulado de descripción de segundo trabajo",
+    title: "MOONLIGHT",
+    about: "Luminaria confeccionada a base una mezcla de jabón de argán y sal",
 
 }, {
-    figure: "media/trabajo-03-zoologico.jpg",
+    figure: "media/trabajo-06-vale.jpg",
     alt: "Descripción de la imagen",
-    title: "Dispositivo de Enriquecimiento Animal para Servales",
-    about: "Texto simulado de descripción de tercer trabajo",
+    title: "Propuesta Puente Suecia",
+    about: "Reestructuración en el tipo de iluminación del puente",
 
 }];
 
