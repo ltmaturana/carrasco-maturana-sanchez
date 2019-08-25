@@ -105,10 +105,10 @@ var trabajosBelen= [{
     about: "Sesión fotográfica para el numero de K-pop de la revista MM.",
 
 }, {
-    figure: "media/trabajo-03-zoologico.jpg",
+    figure: "media/trabajo-06-belen.jpg",
     alt: "Descripción de la imagen",
-    title: "Dispositivo de Enriquecimiento Animal para Servales",
-    about: "Texto simulado de descripción de tercer trabajo",
+    title: "Fresia querida",
+    about: "Trailer realizado para la obra teatral Fresia Querida.",
 
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
