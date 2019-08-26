@@ -5,7 +5,7 @@ var trabajosValentina= [{
     about: "Banca fabricada a partir de placas de terciado de 3 milímetros. La banca tiene solo dos puntos de apoyo y reforzada por un sistema de costillas y ensambles, y estructurada con cables zip.",
 
 }, {
-    figure: "media/trabajo-04-vale.jpeg",
+    figure: "media/trabajo-04-vale.jpg",
     alt: "Descripción de la imagen",
     title: "JV 53",
     about: "Modelo de bote confeccionado con PAI estilo libre, curso Laboratorio de Modelos y Prototipos",
@@ -17,13 +17,13 @@ var trabajosValentina= [{
     about: "Kit de utensilios fundamentales para cocinar en el día a día y que no están presente en la mente del colectivo de los jóvenes que están equipando su nuevo hogar.",
 
 }, {
-    figure: "media/trabajo-03-vale.jpeg",
+    figure: "media/trabajo-03-vale.jpg",
     alt: "Descripción de la imagen",
     title: "Maty",
     about: "Producto en base a TERERÉ que invita a vivir una nueva experiencia para disfrutar su sabor, pero en un formato distinto",
 
 }, {
-    figure: "media/trabajos-05-vale.jpeg",
+    figure: "media/trabajos-05-vale.jpg",
     alt: "Descripción de la imagen",
     title: "MOONLIGHT",
     about: "Luminaria confeccionada a base una mezcla de jabón de argán y sal",
@@ -46,19 +46,19 @@ var trabajosLoreto= [{
     figure: "media/trabajo-02-lolo.jpg",
     alt: "Descripción de la imagen",
     title: "PEP",
-    about: "Sistema desarrollado para Ilko, que consiste en un juego de porcionadores de alimentos para niños de 2 a 5 años, en los cuales están medidas las porciones necesarias de carbohidratos, proteínas, verduras y frutas que necesita un niño dentro de ese rando de edad.",
+    about: "Sistema desarrollado para Ilko, que consiste en un juego de porcionadores de alimentos para niños de 2 a 5 años, en los cuales están medidas las porciones necesarias de carbohidratos, proteínas, verduras y frutas que necesita un niño dentro de ese rango de edad.",
 
 }, {
     figure: "media/trabajo-03-lolo.jpg",
     alt: "Descripción de la imagen",
-    title: "Dispositivo de Enriquecimiento Animal",
-    about: "Dispositivo creado con el propósito de darle uso al espacio áreo en el recinto de los servales, aumentar su actividad física y reducir las conductas estereotípicas comunes en animales en cautiverio. Éste trabajo se realizó en conjunto con PARQUEMET",
+    title: "Enriquecimiento Animal",
+    about: "Dispositivo creado para darle uso al espacio áreo en el recinto de los servales y aumentar su actividad física. Éste trabajo se realizó en conjunto con PARQUEMET",
 
 }, {
     figure: "media/trabajo-04-lolo.jpg",
     alt: "Descripción de la imagen",
     title: "Iluminación  Puente Condell",
-    about: "Proyecto que buscaba modificar la iluminación del puente, para resaltar la idea romántica que tienen los transeúntes sobre el mismo y poner en valor los candados que la gente ha ido añadiendo con el paso del tiempo.",
+    about: "Proyecto que buscaba modificar la iluminación del puente, para resaltar la idea romántica que tienen los transeúntes sobre el mismo.",
 
 }, {
     figure: "media/trabajo-05-lolo.jpg",
