@@ -269,7 +269,6 @@ AHORA VAMOS POR PORTAFOLIO
         height: 300px;
         margin: 15px ;
         background:#fff;
-        color:#fff;
     }
 }
  @media screen and (max-width: 576px){
@@ -328,7 +327,7 @@ AHORA VAMOS POR PORTAFOLIO
      color:#000000; /* lo básico, para evitar problemas */
      color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
      text-align:center;
-     font-weight:.5;
+     font-weight:100;
      bottom: 230px;
      opacity: 0;
 
