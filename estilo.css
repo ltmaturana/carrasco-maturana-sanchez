@@ -252,7 +252,6 @@ AHORA VAMOS POR PORTAFOLIO
   justify-content: center;
 }
 
-}
 .item {
     width:300px;
     height: 200px;
@@ -278,7 +277,6 @@ AHORA VAMOS POR PORTAFOLIO
          width:96%;
          margin:0%;
          background:#fff;
-         color:#fff;
     }
 }
  .item:hover{
@@ -288,7 +286,6 @@ AHORA VAMOS POR PORTAFOLIO
      overflow:hidden;
 }
  .item figure img{
-   //tamaño de la imagen es esto---------------------------------------
      width:400px;
      height: 300px;
      object-fit: cover;
@@ -331,7 +328,7 @@ AHORA VAMOS POR PORTAFOLIO
      color:#000000; /* lo básico, para evitar problemas */
      color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
      text-align:center;
-     font-weight:50;
+     font-weight:.5;
      bottom: 230px;
      opacity: 0;
 
@@ -344,17 +341,6 @@ AHORA VAMOS POR PORTAFOLIO
 
 }
 
-
-/* p {
-  visibility: hidden;
-}
-
-a:hover p {
-  visibility: visible;
-}
-*/
-
-}
  footer{
      width:100%;
      padding:2.5em 0 2em 0;
